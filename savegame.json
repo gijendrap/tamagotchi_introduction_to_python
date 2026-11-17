@@ -1,0 +1,26 @@
+[
+  {
+    "n": "Pika",
+    "hu": 27,
+    "hp": 100,
+    "bo": 62,
+    "ex": 63,
+    "alive": true
+  },
+  {
+    "n": "Mochi",
+    "hu": 47,
+    "hp": 100,
+    "bo": 62,
+    "ex": 58,
+    "alive": true
+  },
+  {
+    "n": "Blob",
+    "hu": 67,
+    "hp": 60,
+    "bo": 72,
+    "ex": 28,
+    "alive": true
+  }
+]
